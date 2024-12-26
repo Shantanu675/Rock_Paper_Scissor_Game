@@ -17,7 +17,7 @@ Features ✨
 
 # Demo 📸
 Initial State:
-
+![image alt](https://github.com/Shantanu675/Rock_Paper_Scissor_Game/blob/4feef25a1d71c363513a5e9a7aaaa01842fa95c9/Screenshot%20from%202024-12-26%2015-33-09.png)
 
 After Playing:
 
