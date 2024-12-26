@@ -1,4 +1,4 @@
-Rock Paper Scissors Game 🎮 ✊✋✌️
+# Rock Paper Scissors Game 🎮 ✊✋✌️
 
 Welcome to the Rock Paper Scissors Game! This is a simple interactive game built with HTML, CSS, and JavaScript. Play against the computer, make your choice, and see who wins!
 Features ✨
@@ -8,19 +8,21 @@ Features ✨
     Displays the winner after each round.
     Fun and interactive design using HTML, CSS, and JS!
 
-How to Play 🎮
+# How to Play 🎮
 
     Click on Rock, Paper, or Scissors to make your selection.
     The game will automatically display the computer's choice.
     See the result: You Win!, You Lose!, or It's a Tie!
     Keep playing until you're satisfied, or refresh to start over.
 
-Demo 📸
+# Demo 📸
 Initial State:
+
 
 After Playing:
 
-How to Play Locally 🖥️
+
+# How to Play Locally 🖥️
 
     Clone the repository:
 
@@ -28,13 +30,13 @@ How to Play Locally 🖥️
 
     Open index.html in your browser to start playing.
 
-Technologies Used 💻
+# Technologies Used 💻
 
     HTML - Structure of the game.
     CSS - Styling and design.
     JavaScript - Game logic and interactions.
 
-Contributing 🤝
+# Contributing 🤝
 
 Feel free to fork the repository and contribute! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 License 📄
@@ -44,10 +46,6 @@ Social Media 📱
 
 Follow along for updates and new games:
 
-    Twitter: @YourUsername
-    GitHub: @YourUsername
+    GitHub: @Shantanu675
 
 Enjoy the game! 🎉
-Notes on Images
-
-Make sure to replace images/initial-image.png and images/after-playing-image.png with the actual paths where your images are located within your repository.
