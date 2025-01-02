@@ -25,7 +25,7 @@ After Playing:
 
 # How to Play Locally 🖥️
 
-    Clone the repository:
+    Clone the repository:-
 
     git clone https://github.com/your-username/Rock-Paper-Scissors-Game.git
 
