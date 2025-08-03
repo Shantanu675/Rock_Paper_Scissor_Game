@@ -27,7 +27,7 @@ After Playing:
 
     Clone the repository:-
 
-    git clone https://github.com/your-username/Rock-Paper-Scissors-Game.git
+    git clone https://github.com/Shantanu675/Rock-Paper-Scissors-Game.git
 
     Open index.html in your browser to start playing.
 
