@@ -1,52 +1,73 @@
-# Rock Paper Scissors Game 🎮 ✊✋✌️
+# 🎮 Rock Paper Scissors Game ✊✋✌️
 
-Welcome to the Rock Paper Scissors Game! This is a simple interactive game built with HTML, CSS, and JavaScript. Play against the computer, make your choice, and see who wins!
-Features ✨
+Welcome to the **Rock Paper Scissors Game**!  
+This is a simple and interactive web-based game built using **HTML, CSS, and JavaScript**.  
+Play against the computer, make your choice, and see who wins! 🚀
 
-    Choose between Rock, Paper, or Scissors.
-    The game will randomly select the computer's choice.
-    Displays the winner after each round.
-    Fun and interactive design using HTML, CSS, and JS!
+---
 
-# How to Play 🎮
+## ✨ Features
 
-    Click on Rock, Paper, or Scissors to make your selection.
-    The game will automatically display the computer's choice.
-    See the result: You Win!, You Lose!, or It's a Tie!
-    Keep playing until you're satisfied, or refresh to start over.
+- ✊ Choose between **Rock**, ✋ **Paper**, or ✌️ **Scissors**
+- 🤖 Computer randomly selects its move
+- 🏆 Instant result display (Win / Lose / Tie)
+- 🎨 Clean and interactive UI
+- ⚡ Lightweight & beginner-friendly project
 
-# Demo 📸
-Initial State:
-![image alt](https://github.com/Shantanu675/Rock_Paper_Scissor_Game/blob/4feef25a1d71c363513a5e9a7aaaa01842fa95c9/Screenshot%20from%202024-12-26%2015-33-09.png)
+---
 
-After Playing:
-![image alt](playing_game.png)
+## 🎮 How to Play
 
+1. Click on **Rock**, **Paper**, or **Scissors**
+2. The computer automatically makes its choice
+3. View the result instantly
+4. Play unlimited rounds 🎉
 
-# How to Play Locally 🖥️
+---
 
-    Clone the repository:-
+## 📸 Demo
 
-    git clone https://github.com/Shantanu675/Rock-Paper-Scissors-Game.git
+### Initial State
+![Initial State](https://github.com/Shantanu675/Rock_Paper_Scissor_Game/blob/main/initial.png)
 
-    Open index.html in your browser to start playing.
+### After Playing
+![Game Play](https://github.com/Shantanu675/Rock_Paper_Scissor_Game/blob/main/play.png)
 
-# Technologies Used 💻
+---
 
-    HTML - Structure of the game.
-    CSS - Styling and design.
-    JavaScript - Game logic and interactions.
+## 🌐 Live Project Link
 
-# Contributing 🤝
+🔗 **Play the Game Here:**  
+👉 [Play Game](https://rock-paper-scissor-shantanu.netlify.app/)
 
-Feel free to fork the repository and contribute! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-License 📄
+---
 
-This project is open-source and available under the MIT License.
-Social Media 📱
+## 🖥️ How to Play Locally
 
-Follow along for updates and new games:
+### Clone the repository
+```bash
+git clone https://github.com/Shantanu675/Rock_Paper_Scissor_Game.git
+```
 
-    GitHub: @Shantanu675
+### Navigation of project
+```bash
+cd Rock_Paper_Scissor_Game.git
+```
+Open index.html in your browser to start playing.
+
+---
+
+## 💻 Technologies Used  
+
+- HTML - Structure of the game.
+- CSS - Styling and design.
+- JavaScript - Game logic and interactions.
+
+---
+
+## 🤝 Contributing  
+
+Feel free to fork the repository and contribute! If you have suggestions or improvements, feel free to open an issue or submit a pull request. 
+License 📄 This project is open-source and available under the MIT License. Social Media 📱
 
 Enjoy the game! 🎉
